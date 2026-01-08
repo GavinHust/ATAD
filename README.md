@@ -3,8 +3,8 @@
 
 ## Repo Contents
 - [Code](https://github.com/GavinHust/ATAD/tree/main/Code): The source code in the paper. 
-  - [ATAD_analysis.py](https://github.com/GavinHust/ATAD/tree/main/Code/ATAD_analysis.py) is mainly used to generate intermediate results of network dismantling.
-  - [ATAD_draw.py](https://github.com/GavinHust/ATAD/tree/main/Code/ATAD_draw.py) is mainly used to generate the figures in the paper based on the results of network dismantling.
+  - [ATAD_analysis.py](https://github.com/GavinHust/ATAD/tree/main/Code/ATAD_analysis.py): is mainly used to generate intermediate results of network dismantling.
+  - [ATAD_draw.py](https://github.com/GavinHust/ATAD/tree/main/Code/ATAD_draw.py): is used to generate the figures in the paper based on the results of network dismantling.
 - [Data](https://github.com/GavinHust/ATAD/tree/main/Data): The data in the paper mainly include the original network data, such as Synthetic network and Real network datasets, as well as the network dismantling result information data used to draw the result pictures in the paper.
   - [Networks](https://github.com/GavinHust/ATAD/tree/main/Data/Networks): The synthetic networks and real-world networks used in the paper:
     - [ER_network](https://github.com/GavinHust/ATAD/tree/main/Data/Networks/ER_network): ER networks with average degrees of 3, 6, 9, and 12. 
