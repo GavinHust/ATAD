@@ -9,7 +9,7 @@
   - [Networks](https://github.com/GavinHust/ATAD/tree/main/Data/Networks): The synthetic networks and real-world networks used in the paper:
     - [ER_network](https://github.com/GavinHust/ATAD/tree/main/Data/Networks/ER_network): ER networks with average degrees of 3, 6, 9, and 12. 
     - [SF_network](https://github.com/GavinHust/ATAD/tree/main/Data/Networks/SF_network): scale-free networks with power-law exponents of 2.2, 2.5, 2.8, and 3.2. 
-    - [large_scale_SF_network](https://github.com/GavinHust/ATAD/tree/main/Data/Networks/large_scale_SF_network): SF networks with 10,000 nodes, used for the SOC analysis in the paper.
+    - [large_scale_SF_network](https://github.com/GavinHust/ATAD/tree/main/Data/Networks/large_scale_SF_network): SF networks with 10,000 nodes, used for the avalanche analysis in the paper.
     - [real_network](https://github.com/GavinHust/ATAD/tree/main/Data/Networks/real_network): real-world networks used in the paper.
   - [ND_results](https://github.com/GavinHust/ATAD/tree/main/Data/ND_results): The network dismantling intermediate results of different methods used to draw the result images in the paper, including data in NPY format and CSV format.
   - [other](https://github.com/GavinHust/ATAD/tree/main/Data/other) and [p_values](https://github.com/GavinHust/ATAD/tree/main/Data/p_values): Some other related data used for conducting experiments and drawing pictures.
