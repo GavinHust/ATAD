@@ -1,4 +1,4 @@
-# Adaptive trophic dismantling reveals scale-free structural avalanches in directed networks
+# Adaptive hierarchy reorganization induces structural cascades in directed network
 
 
 ## Repo Contents
